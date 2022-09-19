@@ -13,10 +13,11 @@ h1{
 }
 p{
     color: gray;
+    margin-bottom: 35px;
 }
 
 section{
-    height: 850px;
+    height: 870px;
 }
 
 .half-width{
@@ -27,7 +28,7 @@ section{
 }
 
 .half-width img{
-    width: 100%;
+    width: 75%;
 }
 
 .container{
@@ -46,4 +47,21 @@ section{
 .heading-area{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
+}
+
+.heading-h2{
+    font-size: 50px;
+}
+
+.rule{
+    margin-top: 200px;
+}
+
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.dream-image img {
+    height: 80%;
 }
